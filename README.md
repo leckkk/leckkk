@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### I'm leckkk
+
+a primary phper
+
 <!--
 **leckkk/leckkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
